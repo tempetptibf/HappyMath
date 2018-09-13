@@ -1,4 +1,4 @@
-# Happy Math Puzzles
+# Funny Math Puzzles
 Technical support email: jfiybd123@126.com
 
 There are 28 levels. Each level can get a star.  
